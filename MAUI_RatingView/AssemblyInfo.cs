@@ -1,0 +1,2 @@
+﻿[assembly: XmlnsDefinition("https://github.com/hollandgeng/MAUI/controls/RatingView", "MAUI_RatingView")]
+[assembly: XmlnsDefinition("https://github.com/hollandgeng/MAUI/controls/Material", "MAUI_RatingView.Material")]
