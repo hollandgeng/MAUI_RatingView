@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:rv="https://github.com/hollandgeng/MAUI/controls/RatingView"
-             xmlns:mt="https://github.com/hollandgeng/MAUI/controls/Material"
+             xmlns:rv="https://github.com/hollandgeng/MAUI_RatingView"
+             xmlns:mt="https://github.com/hollandgeng/MAUI_RatingView?Material"
              x:Class="SampleApp.MainPage">
 
     <ScrollView>
